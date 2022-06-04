@@ -5,39 +5,35 @@ import { ActivatedRoute } from '@angular/router';
 @Component({
   selector: 'app-poke-detail',
   templateUrl: './poke-detail.component.html',
-  styleUrls: ['./poke-detail.component.scss']
+  styleUrls: ['./poke-detail.component.scss'],
 })
 export class PokeDetailComponent implements OnInit {
-
   pokemon: any = '';
   pokemonImg = '';
   pokemonType = [];
 
-  constructor(private activatedRouter: ActivatedRoute,
-    private pokemonService: PokemonService) {
-
-    this.activatedRouter.params.subscribe(
-      params => {
-        this.getPokemon(params['id']);
-      }
-    )
+  constructor(
+    private activatedRouter: ActivatedRoute,
+    private pokemonService: PokemonService
+  ) {
+    this.activatedRouter.params.subscribe((params) => {
+      this.getPokemon(params['id']);
+    });
   }
 
-  ngOnInit(): void {
-  }
+  ngOnInit(): void {}
 
   getPokemon(id) {
     this.pokemonService.getPokemons(id).subscribe(
-      res => {
+      (res) => {
         console.log(res);
         this.pokemon = res;
         this.pokemonImg = this.pokemon.sprites.front_default;
         this.pokemonType = res.types[0].type.name;
       },
-      err => {
+      (err) => {
         console.log(err);
       }
-    )
+    );
   }
-
 }
