@@ -19,13 +19,13 @@ para este caso se utilizaron 150 pokemones de la primera generacion
 ------------------------------------------------------API ADICIONAL POKEMON-GO--------------------------------------------
 ## Se crea otro proyecto para consumir la Api de pokemon
 
-##Aca podemos buscar nuestros pokemones por por Id y ademas de eso nos trae el tipo de pokemon, nombre y imagen
+## Aca podemos buscar nuestros pokemones por por Id y ademas de eso nos trae el tipo de pokemon, nombre y imagen
 ![image](https://user-images.githubusercontent.com/96325513/172066721-65242fee-7c1f-46c9-81b3-f3d158e1d40e.png)
 
-##Aca podemos buscar nuestros pokemones por por nombre y ademas de eso nos trae el tipo de pokemon, nombre y imagen
+## Aca podemos buscar nuestros pokemones por por nombre y ademas de eso nos trae el tipo de pokemon, nombre y imagen
 ![image](https://user-images.githubusercontent.com/96325513/172066837-19d40301-5bdf-4139-9397-4566e99aa440.png)
 
-##Link repositorio Api extra--->https://github.com/Duvis07/Api-Pokemon-Go.git
+## Link repositorio Api extra--->https://github.com/Duvis07/Api-Pokemon-Go.git
 
 Autor: Duvan Arley Botero rivillas
 
