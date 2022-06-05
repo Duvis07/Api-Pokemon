@@ -13,4 +13,9 @@ para este caso se utilizaron 150 pokemones de la primera generacion
 ## Se filtra por nombre un pokemon de la primera generacion
 ![image](https://user-images.githubusercontent.com/96325513/172033999-06b08fb8-2a8b-429e-ac9c-cb70dd6453f2.png)
 
+## Se filtra por nombre y se muestran  sus caracteristicas Type, Height, Weight
+![image](https://user-images.githubusercontent.com/96325513/172034091-d180803d-b8a1-4084-a414-74103f979f39.png)
+
+
+Autor: Duvan Arley Botero rivillas
 
