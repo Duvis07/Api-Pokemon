@@ -16,6 +16,8 @@ para este caso se utilizaron 150 pokemones de la primera generacion
 ## Se filtra pokemon por nombre y se muestran  sus caracteristicas Type, Height, Weight
 ![image](https://user-images.githubusercontent.com/96325513/172034091-d180803d-b8a1-4084-a414-74103f979f39.png)
 
+------------------------------------------------------API ADICIONAL--------------------------------------------
+
 
 Autor: Duvan Arley Botero rivillas
 
