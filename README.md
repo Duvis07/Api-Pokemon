@@ -6,6 +6,8 @@ apartir de eso se utliza una tabla con un filtro y un paginador para hacer la co
 para este caso se utilizaron 150 pokemones de la primera generacion
 
 ## Se lista los 150 pokemones de la primera generacion con su correspondiente numero, imagen y nombre
+![image](https://user-images.githubusercontent.com/96325513/172034065-409eab47-c994-4565-a2f8-00d89b3a6ee9.png)
+
 ![image](https://user-images.githubusercontent.com/96325513/172033945-ce862de6-c5ad-4664-a835-f3e6a59be9fe.png)
 
 ## Se filtra por nombre un pokemon de la primera generacion
