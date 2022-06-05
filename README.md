@@ -16,7 +16,7 @@ para este caso se utilizaron 150 pokemones de la primera generacion
 ## Se filtra pokemon por nombre y se muestran  sus caracteristicas Type, Height, Weight
 ![image](https://user-images.githubusercontent.com/96325513/172034091-d180803d-b8a1-4084-a414-74103f979f39.png)
 
-------------------------------------------------------API ADICIONAL Pokemon-Go--------------------------------------------
+------------------------------------------------------API ADICIONAL POKEMON-GO--------------------------------------------
 ## Se crea otro proyecto para consumir la Api de pokemon
 
 ##Aca podemos buscar nuestros pokemones por por Id y ademas de eso nos trae el tipo de poder, nombre y imagen
@@ -24,6 +24,8 @@ para este caso se utilizaron 150 pokemones de la primera generacion
 
 ##Aca podemos buscar nuestros pokemones por por nombre y ademas de eso nos trae el tipo de poder, nombre y imagen
 ![image](https://user-images.githubusercontent.com/96325513/172066837-19d40301-5bdf-4139-9397-4566e99aa440.png)
+
+
 
 
 Autor: Duvan Arley Botero rivillas
